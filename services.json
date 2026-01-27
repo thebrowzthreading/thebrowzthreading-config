@@ -1,1 +1,58 @@
 
+{
+  "siteInfo": {
+    "name": "The Browz Threading",
+    "tagline": "Natural Beauty",
+    "address": "1923 Massachusetts Ave, Cambridge, MA 02140",
+    "phone": "857-770-8825",
+    "description": "The Browz Threading is a full service threading salon dedicated to ensuring that clients look and feel their best. Choose from a range of threading services and makeup for special occasions or as part of a regular beauty regimen.",
+    "nofitication": "We are closed today"
+  },
+  "heroSection": {
+    "title": "Natural Beauty",
+    "subtitle": "Beautifully shaped eyebrows by experienced threading specialists.",
+    "backgroundImage": "/images/hero.jpg"
+  },
+
+  "aboutSection": {
+    "title": "About Us",
+    "content": "The Browz Threading is a well-known, community‑appreciated threading salon with years of experience. Our specialists are committed to delivering beautifully shaped eyebrows and exceptional customer service. Taking care of your eyebrows and skin is essential to your wellbeing, and we help you look and feel your best."
+  },
+
+  "services": [
+    { "name": "Eyebrow Threading", "price": 15, "description": "Removing unwanted hair and giving a nice shape." },
+    { "name": "Upper Lip Threading", "price": 10, "description": "Removing unwanted hair from the upper lip." },
+    { "name": "Chin Threading", "price": 10 },
+    { "name": "Neck Threading", "price": 10 },
+    { "name": "Sides Threading", "price": 12 },
+    { "name": "Forehead Threading", "price": 10 },
+    { "name": "Full Face Threading", "price": 40 },
+    { "name": "Eyebrow Tint", "price": 25 },
+    { "name": "Brow Henna", "price": 35 },
+    { "name": "Brow Lamination", "price": 0, "description": "Price varies; call for details." },
+    { "name": "Lash Lift", "price": 0, "description": "Price varies; call for details." },
+    { "name": "Lash Tint", "price": 0, "description": "Price varies; call for details." },
+    { "name": "Full Arm Waxing", "price": 0 },
+    { "name": "Half Arm Waxing", "price": 0 },
+    { "name": "Full Leg Waxing", "price": 0 },
+    { "name": "Half Leg Waxing", "price": 0 },
+    { "name": "Underarm Hair Removal", "price": 0 }
+  ],
+
+  "hours": {
+    "monday": "11 AM – 7 PM",
+    "tuesday": "11 AM – 7 PM",
+    "wednesday": "11 AM – 7 PM",
+    "thursday": "11 AM – 7 PM",
+    "friday": "11 AM – 7 PM",
+    "saturday": "10 AM – 6 PM",
+    "sunday": "11 AM – 5 PM"
+  },
+
+  "contact": {
+    "phone": "857-770-8825",
+    "email": "info@thebrowzthreading.com",
+    "address": "1923 Massachusetts Ave, Cambridge, MA 02140",
+    "googleFormUrl": "https://docs.google.com/forms/..."
+  }
+}
