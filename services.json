@@ -1,58 +1,125 @@
-
 {
-  "siteInfo": {
-    "name": "The Browz Threading",
-    "tagline": "Natural Beauty",
-    "address": "1923 Massachusetts Ave, Cambridge, MA 02140",
-    "phone": "857-770-8825",
-    "description": "The Browz Threading is a full service threading salon dedicated to ensuring that clients look and feel their best. Choose from a range of threading services and makeup for special occasions or as part of a regular beauty regimen.",
-    "nofitication": "We are closed today"
+  "home": {
+    "tagline": "Your Beauty, Our Passion",
+    "about": "Welcome to The Browz Threading, where beauty meets precision. Our expert estheticians provide top-quality threading, waxing, and lash services in a clean, comfortable environment. Experience the perfect blend of traditional techniques and modern beauty standards."
   },
-  "heroSection": {
-    "title": "Natural Beauty",
-    "subtitle": "Beautifully shaped eyebrows by experienced threading specialists.",
-    "backgroundImage": "/images/hero.jpg"
+  "notifications": {
+    "enabled": true,
+    "message": "Special offer: 10% off your first appointment! Book now!",
+    "type": "promotional"
   },
-
-  "aboutSection": {
-    "title": "About Us",
-    "content": "The Browz Threading is a well-known, community‑appreciated threading salon with years of experience. Our specialists are committed to delivering beautifully shaped eyebrows and exceptional customer service. Taking care of your eyebrows and skin is essential to your wellbeing, and we help you look and feel your best."
+  "business_hours": {
+    "monday": { "open": "9:00 AM", "close": "7:00 PM" },
+    "tuesday": { "open": "9:00 AM", "close": "7:00 PM" },
+    "wednesday": { "open": "9:00 AM", "close": "7:00 PM" },
+    "thursday": { "open": "9:00 AM", "close": "7:00 PM" },
+    "friday": { "open": "9:00 AM", "close": "8:00 PM" },
+    "saturday": { "open": "9:00 AM", "close": "6:00 PM" },
+    "sunday": { "open": "10:00 AM", "close": "5:00 PM" }
   },
-
-  "services": [
-    { "name": "Eyebrow Threading", "price": 15, "description": "Removing unwanted hair and giving a nice shape." },
-    { "name": "Upper Lip Threading", "price": 10, "description": "Removing unwanted hair from the upper lip." },
-    { "name": "Chin Threading", "price": 10 },
-    { "name": "Neck Threading", "price": 10 },
-    { "name": "Sides Threading", "price": 12 },
-    { "name": "Forehead Threading", "price": 10 },
-    { "name": "Full Face Threading", "price": 40 },
-    { "name": "Eyebrow Tint", "price": 25 },
-    { "name": "Brow Henna", "price": 35 },
-    { "name": "Brow Lamination", "price": 0, "description": "Price varies; call for details." },
-    { "name": "Lash Lift", "price": 0, "description": "Price varies; call for details." },
-    { "name": "Lash Tint", "price": 0, "description": "Price varies; call for details." },
-    { "name": "Full Arm Waxing", "price": 0 },
-    { "name": "Half Arm Waxing", "price": 0 },
-    { "name": "Full Leg Waxing", "price": 0 },
-    { "name": "Half Leg Waxing", "price": 0 },
-    { "name": "Underarm Hair Removal", "price": 0 }
-  ],
-
-  "hours": {
-    "monday": "11 AM – 7 PM",
-    "tuesday": "11 AM – 7 PM",
-    "wednesday": "11 AM – 7 PM",
-    "thursday": "11 AM – 7 PM",
-    "friday": "11 AM – 7 PM",
-    "saturday": "10 AM – 6 PM",
-    "sunday": "11 AM – 5 PM"
-  },
-
   "contact": {
-    "phone": "857-770-8825",
+    "phone": "(555) 123-4567",
     "email": "info@thebrowzthreading.com",
-    "address": "1923 Massachusetts Ave, Cambridge, MA 02140",
-    "googleFormUrl": "https://docs.google.com/forms/..."
-  }
+    "address": {
+      "street": "1923 B Massachusetts Ave",
+      "city": "Cambridge",
+      "state": "MA",
+      "zip": "02140",
+      "mapLink": "https://maps.google.com/?q=123+Beauty+Lane+New+York+NY+10001"
+    },
+    "socialMedia": {
+      "facebook": "https://facebook.com/thebrowzthreading",
+      "instagram": "https://instagram.com/thebrowzthreading",
+      "twitter": "https://twitter.com/thebrowzthread"
+    }
+  },
+  "services": [
+    {
+      "category": "Threading Services",
+      "services": [
+        {
+          "name": "Eyebrows",
+          "description": "Precise eyebrow shaping and grooming",
+          "duration": "15 min",
+          "price": 15.00
+        },
+        {
+          "name": "Upper Lip",
+          "description": "Gentle upper lip hair removal",
+          "duration": "10 min",
+          "price": 10.00
+        },
+        {
+          "name": "Chin",
+          "description": "Chin and jawline threading",
+          "duration": "10 min",
+          "price": 12.00
+        },
+        {
+          "name": "Full Face",
+          "description": "Complete facial threading including eyebrows, lip, chin, and sides",
+          "duration": "30 min",
+          "price": 35.00
+        }
+      ]
+    },
+    {
+      "category": "Waxing Services",
+      "services": [
+        {
+          "name": "Full Arms",
+          "description": "Complete arm waxing from shoulder to wrist",
+          "duration": "30 min",
+          "price": 35.00
+        },
+        {
+          "name": "Under Arms",
+          "description": "Gentle underarm hair removal",
+          "duration": "15 min",
+          "price": 20.00
+        },
+        {
+          "name": "Full Legs",
+          "description": "Complete leg waxing from thighs to ankles",
+          "duration": "45 min",
+          "price": 55.00
+        },
+        {
+          "name": "Bikini",
+          "description": "Basic bikini line waxing",
+          "duration": "20 min",
+          "price": 30.00
+        }
+      ]
+    },
+    {
+      "category": "Lashes & Tinting",
+      "services": [
+        {
+          "name": "Eyelash Tint",
+          "description": "Professional eyelash tinting for darker, more defined lashes",
+          "duration": "30 min",
+          "price": 25.00
+        },
+        {
+          "name": "Eyebrow Tint",
+          "description": "Eyebrow tinting for fuller looking brows",
+          "duration": "20 min",
+          "price": 20.00
+        },
+        {
+          "name": "Lash Lift",
+          "description": "Semi-permanent lash lift for curled, lifted lashes",
+          "duration": "45 min",
+          "price": 65.00
+        },
+        {
+          "name": "Lash Lift & Tint",
+          "description": "Combination of lash lift and tint for maximum effect",
+          "duration": "60 min",
+          "price": 80.00
+        }
+      ]
+    }
+  ]
 }
