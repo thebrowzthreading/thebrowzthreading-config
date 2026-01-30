@@ -5,7 +5,7 @@
   },
   "notifications": {
     "enabled": true,
-    "message": "Special offer: 10% off your first appointment! Book now!",
+    "message": " We are closed today due to sever weather condition!",
     "type": "promotional"
   },
   "business_hours": {
