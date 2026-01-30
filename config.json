@@ -4,7 +4,7 @@
     "about": "Welcome to The Browz Threading, where beauty meets precision. Our expert estheticians provide top-quality threading, waxing, and lash services in a clean, comfortable environment. Experience the perfect blend of traditional techniques and modern beauty standards."
   },
   "notifications": {
-    "enabled": false,
+    "enabled": true,
     "message": " We are closed today due to sever weather condition!",
     "type": "notification"
   },
