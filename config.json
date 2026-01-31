@@ -145,5 +145,43 @@
         }
       ]
     }
+  ],
+  "yelp_reviews":[
+    {
+      "use_id":"dFX3tTKYanMLzxi4IT8jmw",
+      "full_name":"Jahan H.",
+      "data_review_id":"PEr9znh_K2w4kcGDFG65HQ",
+      "hrid":"PEr9znh_K2w4kcGDFG65HQ"
+    },
+    {
+      "use_id":"ijcdt7ipFTkN-Osq62QRwA",
+      "full_name":"Hilary F.",
+      "data_review_id":"wNyMBtAVzmKfYQiXTnCwEA",
+      "hrid":"wNyMBtAVzmKfYQiXTnCwEA"
+    },
+    {
+      "use_id":"HZf_piPaSn7XurSsv68yhg",
+      "full_name":"Michaela W.",
+      "data_review_id":"5jkLZ9Sh9z6JCzVXlLUpsw",
+      "hrid":"5jkLZ9Sh9z6JCzVXlLUpsw"
+    },
+    {
+      "use_id":"FlzhwNNmmXK1XdiW64ul-A",
+      "full_name":"Jamie B.",
+      "data_review_id":"IPH5rmedMyY1l52WwTt6yA",
+      "hrid":"IPH5rmedMyY1l52WwTt6yA"
+    },
+    {
+      "use_id":"LM3J1rss8QJLDA4SkWoRwQ",
+      "full_name":"Nyssa M.",
+      "data_review_id":"QewgN0I9d701zfVlrJBfrg",
+      "hrid":"QewgN0I9d701zfVlrJBfrg"
+    },
+    {
+      "use_id":"FaGb4xPIkLi8HMCXQqAATg",
+      "full_name":"Becca T.",
+      "data_review_id":"xR6PnwguueJfwDd3SqXUmg",
+      "hrid":"xR6PnwguueJfwDd3SqXUmg"
+    }
   ]
 }
