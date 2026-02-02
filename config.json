@@ -119,13 +119,13 @@
           "name": "Lash Lift",
           "description": "Semi-permanent lash lift for curled, lifted lashes",
           "duration": "45 min",
-          "price": 85.00
+          "price": 90.00
         },
         {
           "name": "Lash Lift & Tint",
           "description": "Combination of lash lift and tint for maximum effect",
           "duration": "60 min",
-          "price": 150.00
+          "price": 120.00
         },
         {
           "name": "Eyebrow Tint",
