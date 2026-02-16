@@ -5,7 +5,7 @@
   },
   "notifications": {
     "enabled": false,
-    "message": " We are closed today due to sever weather condition!",
+    "message": " We gladly accept walk-ins for threading services only.",
     "type": "notification"
   },
   "business_hours": {
